@@ -1,4 +1,4 @@
-# hamsci-hardware
+# THRUHole-Grape
 A template repository for documenting HamSCI hardware. 
 
 ## [Check out the example documentation pages here.](https://hamsci.github.io/THRUHole-Grape)
