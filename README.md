@@ -1,7 +1,7 @@
 # hamsci-hardware
 A template repository for documenting HamSCI hardware. 
 
-## [Check out the example documentation pages here.](https://hamsci.github.io/THRU-Hole-Grape)
+## [Check out the example documentation pages here.](https://hamsci.github.io/THRUHole-Grape)
 
 - [X] Create a new repository using this template.
 - [ ] Update docs/_config.yml with information about the specific hardware you're documenting.
