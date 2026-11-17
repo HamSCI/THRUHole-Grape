@@ -1,6 +1,7 @@
 # THRUHole-Grape
 This working group is developing a thru-hole version of the Grape receiver for use in education and to maintain long-term support of the system.
-![Screenshot](20260515_152119_0.jpg.avif)
+
+![Screenshot](finished_project.jpg.avif)
 
 
 ## [Check out the example documentation pages here.](https://hamsci.github.io/THRUHole-Grape)
