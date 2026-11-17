@@ -1,5 +1,6 @@
 # THRUHole-Grape
-A template repository for documenting HamSCI hardware. 
+This working group is developing a thru-hole version of the Grape receiver for use in education and to maintain long-term support of the system.
+
 
 ## [Check out the example documentation pages here.](https://hamsci.github.io/THRUHole-Grape)
 
